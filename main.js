@@ -10,3 +10,4 @@ console.log(`El género del gato es ${macho}`);
 console.log(`El propietario del gato es ${propietario.nombre}`);
 console.log(`La edad del propietario del gato es ${propietario.edad}`);
 console.log(`El propietario del gato vive en ${propietario.ciudad}`);
+
