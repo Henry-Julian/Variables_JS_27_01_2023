@@ -7,4 +7,6 @@ let propietario = { nombre: "Henry", edad: "33", ciudad : "Bucaramanga" };
 console.log(`El nombre del gato es ${nombre_gato}`);
 console.log(`La edad del gato ${edad}`);
 console.log(`El género del gato es ${macho}`);
-console.log(`El propietario del gato es ${propietario}`);
+console.log(`El propietario del gato es ${propietario.nombre}`);
+console.log(`La edad del propietario del gato es ${propietario.edad}`);
+console.log(`El propietario del gato vive en ${propietario.ciudad}`);
