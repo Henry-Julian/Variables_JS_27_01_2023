@@ -19,5 +19,25 @@ console.time();
 console.timeEnd();
 
 
+console.log("%cMensaje","font-family:cursive;color#fff;backround:red;");
+
+alert(nombre);
+let bandera = confirm(nombre);
+
+console.log(bandera);
+
+let dato = prompt("Ingrese su nombre");
+
+console.log(dato);
+
+
+document.querySelector("dialog").showModal();
+
+
+//https://sweetalert2.github.io/ SOLAMENTE PARA VENTANAS DE DIALOGO
+
+
+
+
 
 
